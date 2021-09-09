@@ -1,3 +1,4 @@
 Branch Naming Convention
 1. Branch names should always have prefix on type of work invoved like this {type}/{feature-detail}. For example, feature/add-documentation
 2. Develop branch is the default branch
+
